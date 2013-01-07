@@ -1,4 +1,6 @@
 Scheme Interpreter
+Copyright (c) 1998, Roland Rabien 
+BSD License
 
 Very limited scheme interpreter written in Prolog.
 
